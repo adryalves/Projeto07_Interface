@@ -1,6 +1,7 @@
 # Projeto BitDogLab - Controle de LEDs e Display SSD1306
 
 ## Link de vídeo de funcionamento:
+https://drive.google.com/file/d/1v8vuxMvd1SqO7tmh9OJGoWHvrJjsAaP2/view?usp=drivesdk
 
 ## Objetivos
 - Compreender e aplicar comunicação serial (UART e I2C).
